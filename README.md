@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Project by Rubén Carrasco & Juan Lizondo
